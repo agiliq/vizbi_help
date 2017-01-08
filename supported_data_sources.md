@@ -2,5 +2,5 @@
   
   - Postgresql
   - SQLite
-  - MySQL
+  - MySQL and
   - BigQuery
