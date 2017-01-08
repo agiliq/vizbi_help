@@ -14,23 +14,13 @@ Storyboards
 
 1. [How can I create a Storyboard?](http://help.vizbi.com/creating_storyboard.html)
 2. [What is a storyboard?](http://help.vizbi.com/what_is_sb.html)
-3. What can I add to a storyboard?
-
-  *You can add your Visualizations to a Storyboard*.
+3. [What can I add to a storyboard?](http://help.vizbi.com/what_can_i_add_to_sb.html)
 
 
 Datasources
 ============
 
-1. What data sources are supported by Vizbi?
-
-  *We currently support*
-  
-  - Postgresql
-  - SQLite
-  - MySQL
-  - BigQuery
-  
+1. [What data sources are supported by Vizbi?](http://help.vizbi.com/supported_data_sources.html)
 2. How can I add a CSV?
 3. How can I add a postgres DB?
 4. How can I add a Mysql DB?
