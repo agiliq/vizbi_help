@@ -5,10 +5,7 @@ Help for Vizbi
 Visualizations
 =================
 
-1. How can I create a Visualization?
-
-   Refer [Creating Visualization](https://github.com/agiliq/vizbi_help/blob/master/create_new_visualization.md)
-       
+1. [How can I create a Visualization?](http://help.vizbi.com/create_new_visualization.html)      
 2. What Visualization types are supported by Vizbi?
 
   **We currently support the following Visualization types**: 
