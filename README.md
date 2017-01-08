@@ -29,4 +29,4 @@ Notebooks
 ============
 
 1. [What are Vizbi Notebooks?](http://help.vizbi.com/vizbi_notebook.html)
-2. What langauges are supported by Vizbi notebooks?
+2. [What langauges are supported by Vizbi notebooks?](http://help.vizbi.com/notebook_language_support.html)
