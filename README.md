@@ -67,6 +67,7 @@ Datasources
 1. What data sources are supported by Vizbi?
 
   *We currently support*
+  
   - Postgresql
   - SQLite
   - MySQL
