@@ -21,9 +21,9 @@ Datasources
 ============
 
 1. [What data sources are supported by Vizbi?](http://help.vizbi.com/supported_data_sources.html)
-2. How can I add a CSV?
-3. How can I add a postgres DB?
-4. How can I add a Mysql DB?
+2. [How can I add a CSV?](http://help.vizbi.com/add_csv.html)
+3. [How can I add a postgres DB?](http://help.vizbi.com/add_postgres_db.html)
+4. [How can I add a Mysql DB?](http://help.vizbi.com/add_mysql_db.html)
 
 Notebooks
 ============
