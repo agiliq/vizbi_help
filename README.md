@@ -51,8 +51,14 @@ Storyboards
   - Now click on the graph icon on the **Visualization container** and choose your Visualization.
   - Repeat the above two steps if you want to add more visualizations
   - Finally click on the Save Storyboard button below to save and create your Storyboard.
+ 
 2. What is a storyboard?
+
+  Basically, Storyboard is a set of related visualizations, it can help you plan and organize your visualizations
+  
 3. What can I add to a storyboard?
+
+  You can add your Visualizations to a Storyboard
 
 
 Datasources
