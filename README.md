@@ -8,7 +8,7 @@ Visualizations
 1. How can I create a Visualization?
 
 
-  **To create a Visualization, follow the steps:**
+  **To create a Visualization, follow the steps**:
 
   It is assumed that you have added your database in the [Data Source](http://app.vizbi.com/#!/add-database) page.
 
@@ -18,6 +18,23 @@ Visualizations
   - Now you can see the measures and dimension you selected, you can click on the Advances Options for Aggregation(Sum, Count, Max, Min etc), Label to change default Label and so on.
        
 2. What Visualization types are supported by Vizbi?
+
+  **We currently support the following Visualization types**: 
+  - Line
+  - Column
+  - Bar
+  - Pie
+  - Donut
+  - Scatter
+  - Area
+  - Single
+  - Guage
+  - Dual Axis
+  - Column Line
+  - Line Column
+  - Map Chart
+  - Table
+  and more to come ...
 
 
 Storyboards
