@@ -20,6 +20,7 @@ Visualizations
 2. What Visualization types are supported by Vizbi?
 
   **We currently support the following Visualization types**: 
+  
   - Line
   - Column
   - Bar
@@ -42,7 +43,7 @@ Storyboards
 
 1. How can I create a Storyboard?
 
-**To create a Storyboard**
+  **To create a Storyboard**
 
   - Go to [Storyboard page](http://app.vizbi.com/#!/create-storyboard)
   - Enter your storyboard name, select the privacy from the Privacy dropdown
