@@ -65,6 +65,12 @@ Datasources
 ============
 
 1. What data sources are supported by Vizbi?
+  *We currently support*
+  - Postgresql
+  - SQLite
+  - MySQL
+  - BigQuery
+  
 2. How can I add a CSV?
 3. How can I add a postgres DB?
 4. How can I add a Mysql DB?
