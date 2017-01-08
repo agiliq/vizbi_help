@@ -6,25 +6,7 @@ Visualizations
 =================
 
 1. [How can I create a Visualization?](http://help.vizbi.com/create_new_visualization.html)      
-2. What Visualization types are supported by Vizbi?
-
-  **We currently support the following Visualization types**: 
-  
-  - *Line*
-  - *Column*
-  - *Bar*
-  - *Pie*
-  - *Donut*
-  - *Scatter*
-  - *Area*
-  - *Single*
-  - *Guage*
-  - *Dual Axis*
-  - *Column Line*
-  - *Line Column*
-  - *Map Chart*
-  - *Table*
-  *and more to come* ...
+2. [What Visualization types are supported by Vizbi?](http://help.vizbi.com/supported_visualization_types.html)
 
 
 Storyboards
