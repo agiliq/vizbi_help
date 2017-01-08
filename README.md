@@ -28,5 +28,5 @@ Datasources
 Notebooks
 ============
 
-1. What are Vizbi Notebooks?
+1. [What are Vizbi Notebooks?](http://help.vizbi.com/vizbi_notebook.html)
 2. What langauges are supported by Vizbi notebooks?
