@@ -3,7 +3,7 @@
   It is assumed that you have added your database in the [Data Source](http://app.vizbi.com/#!/add-database) page.
 
   - *Go to [VizBI create visualization page](http://app.vizbi.com/#!/visualizations/create) and select your database from the Databases section on the left*.
-  ![Screen1](https://github.com/agiliq/vizbi_help/blob/master/create-visualizations/screen1.png)
+  [[https://github.com/agiliq/vizbi_help/blob/master/create-visualizations/screen1.png|alt=Screen1]]
   - *After selecting your database, tables will be drilled down below in the Tables section for the selected database*.
   ![Screen2](https://github.com/agiliq/vizbi_help/blob/master/create-visualizations/screen2.png)
   - *Click on the table you want to visualize, it will show you Measures and Dimensions and then select the appropiate measures and dimension*.
