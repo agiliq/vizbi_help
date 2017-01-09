@@ -2,6 +2,15 @@ Help for Vizbi
 -----------------
 
 
+Datasources
+============
+
+1. [What data sources are supported by Vizbi?](http://help.vizbi.com/supported_data_sources.html)
+2. [How can I add a CSV?](http://help.vizbi.com/add_csv.html)
+3. [How can I add a postgres DB?](http://help.vizbi.com/add_postgres_db.html)
+4. [How can I add a Mysql DB?](http://help.vizbi.com/add_mysql_db.html)
+
+
 Visualizations
 =================
 
@@ -16,14 +25,6 @@ Storyboards
 2. [What is a storyboard?](http://help.vizbi.com/what_is_sb.html)
 3. [What can I add to a storyboard?](http://help.vizbi.com/what_can_i_add_to_sb.html)
 
-
-Datasources
-============
-
-1. [What data sources are supported by Vizbi?](http://help.vizbi.com/supported_data_sources.html)
-2. [How can I add a CSV?](http://help.vizbi.com/add_csv.html)
-3. [How can I add a postgres DB?](http://help.vizbi.com/add_postgres_db.html)
-4. [How can I add a Mysql DB?](http://help.vizbi.com/add_mysql_db.html)
 
 Notebooks
 ============
