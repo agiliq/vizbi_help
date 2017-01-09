@@ -5,7 +5,7 @@
   - *Go to [VizBI create visualization page](http://app.vizbi.com/#!/visualizations/create) and select your database from the Databases section on the left*.
   [[/create-visualizations/screen1.png|alt=Screen1]]
   - *After selecting your database, tables will be drilled down below in the Tables section for the selected database*.
-  ![Screen2](https://github.com/agiliq/vizbi_help/blob/master/create-visualizations/screen2.png)
+  ![Screen2](/create-visualizations/screen2.png)
   - *Click on the table you want to visualize, it will show you Measures and Dimensions and then select the appropiate measures and dimension*.
   ![Screen3](https://github.com/agiliq/vizbi_help/blob/master/create-visualizations/screen3.png)
   ![Screen4](https://github.com/agiliq/vizbi_help/blob/master/create-visualizations/screen4.png)
